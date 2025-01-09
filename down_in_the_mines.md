@@ -3,6 +3,8 @@
 
 `1:06 PM - January 22, 2013`
 
+<img src ="./assets/300px-StaircaseMine.png" width=450>
+
 It was on my list of GTP (games to play) and it took a yucky rainy weekend for me to finally cave and start playing minecraft.  
 Of course I included my prime research subjects (my kids) in on the exercise and of course we are sharing the one account (for now). 
 This is the story of a week in minecraft with placeholders for future things to think about… (I like to use yellow wool blocks now to indicate places I want to mine later…).
