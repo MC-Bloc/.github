@@ -1,7 +1,7 @@
 # Minecraft Bloc
 MC Bloc is a Research Group based at the TAG Research Center, Milieux Institute, Concordia University, Montreal. 
 
-How did it start? [Well, it was a yucky rainy weekend...](https://tag.hexagram.ca/down-in-the-mines-no-one-can-hear-you-scream/) 
+How did it start? [Well, it was a yucky rainy weekend...](https://github.com/MC-Bloc/.github/blob/main/down_in_the_mines.md) 
 
 ## Active Projects
 
@@ -17,13 +17,20 @@ The SunblockCore mod can be [found here](https://github.com/MC-Bloc/SB1-Sunblock
 
 **If you are a minecraft modder and would like to make mods for sunblock, please [reach us here](https://minecraftbloc.milieux.ca/contact/). We want to hear from you!**
 
+## Upcoming Projects 
+1. Sunblock Two
+2. Gaia's Riddle Solar Surival Multiplayer (Summer 2025)
+3. Sunblock Three 
+
+
 ## Past Projects 
-1. The Allegorical Build. [Find more](https://www.youtube.com/@allegoricalbuild)
-2. The Fun Palace SMP [Find more](https://minecraftbloc.milieux.ca/fun-palace-smp/)
-3. The Ultimate Goal: A Bauhaus Adventure in Minecraft [Find More](https://tag.hexagram.ca/events/the-ultimate-goal-a-bauhaus-adventure-in-minecraft/)
-4. MinDCraft by Gina Hara [Find More](https://ginaharaszti.com/new-media/mindcraft/)
-5. Your Place of Minecraft - a Machinima by Gina Hara [Find More](https://yourplaceorminecraft.com/)
-6. The Building Blocks of Life: A Minecraft Colloquium [Find More](https://tag.hexagram.ca/events/minecraft-colloquium)
+1. Gaia's Riddle (Fall 2024) - Solar Server modpack [Find more](https://www.curseforge.com/minecraft/modpacks/gaias-riddle) 
+2. The Allegorical Build. [Find more](https://www.youtube.com/@allegoricalbuild)
+3. The Fun Palace SMP [Find more](https://minecraftbloc.milieux.ca/fun-palace-smp/)
+4. The Ultimate Goal: A Bauhaus Adventure in Minecraft [Find More](https://tag.hexagram.ca/events/the-ultimate-goal-a-bauhaus-adventure-in-minecraft/)
+5. MinDCraft by Gina Hara [Find More](https://ginaharaszti.com/new-media/mindcraft/)
+6. Your Place of Minecraft - a Machinima by Gina Hara [Find More](https://yourplaceorminecraft.com/)
+7. The Building Blocks of Life: A Minecraft Colloquium [Find More](https://tag.hexagram.ca/events/minecraft-colloquium)
 
 ## The Team 
 
