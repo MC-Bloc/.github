@@ -29,7 +29,7 @@ The SunBlockCore mod can be [found here](https://github.com/MC-Bloc/SunblockCore
 3. The Fun Palace SMP [Find more](https://minecraftbloc.milieux.ca/fun-palace-smp/)
 4. The Ultimate Goal: A Bauhaus Adventure in Minecraft [Find More](https://tag.hexagram.ca/events/the-ultimate-goal-a-bauhaus-adventure-in-minecraft/)
 5. MinDCraft by Gina Hara [Find More](https://ginaharaszti.com/new-media/mindcraft/)
-6. Your Place of Minecraft - a Machinima by Gina Hara [Find More](https://yourplaceorminecraft.com/)
+6. Your Place or Minecraft - a Machinima by Gina Hara [Find More](https://yourplaceorminecraft.com/)
 7. The Building Blocks of Life: A Minecraft Colloquium [Find More](https://tag.hexagram.ca/events/minecraft-colloquium)
 
 ## The Team 
