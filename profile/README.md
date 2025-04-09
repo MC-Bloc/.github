@@ -5,22 +5,22 @@ How did it start? [Well, it was a yucky rainy weekend...](https://github.com/MC-
 
 ## Active Projects
 
-### Sunblock One  
-[Sunblock](https://minecraftbloc.milieux.ca/sunblock/) is a solar-powered minecraft server housed at the Milieux institute. 
+### SunBlock One  
+[SunBlock](https://minecraftbloc.milieux.ca/sunblock/) is a solar-powered minecraft server housed at the Milieux institute. 
 
-Currently, Sunblock is on its first iteration, Sunblock One. 
-To check the server status, visit the [Sunblock One status website](https://sunblockone.milieux.ca). 
+Currently, SunBlock is on its first iteration, SunBlock One. 
+To check the server status, visit the [SunBlock One status website](https://sunblockone.milieux.ca). 
 
 To build a sunblock server for yourself, checkout our server build guide and [documentation here](https://github.com/MC-Bloc/Sunblock/).
 
-The SunblockCore mod can be [found here](https://github.com/MC-Bloc/SB1-SunblockCore/). This mod is required on server and client side to communicate solar data. To learn how to build client-side mods based on the SunblockCore mod, checkout the [documentation here](https://github.com/MC-Bloc/SB1-SunblockCore)
+The SunBlockCore mod can be [found here](https://github.com/MC-Bloc/SunblockCore-GL/). This mod is required on server and client side to communicate solar data. To learn how to build client-side mods based on the SunBlockCore mod, checkout the [documentation here](https://github.com/MC-Bloc/SunblockCore-GL)
 
-**If you are a minecraft modder and would like to make mods for sunblock, please [reach us here](https://minecraftbloc.milieux.ca/contact/). We want to hear from you!**
+**If you are a minecraft modder and would like to make mods for SunBlock, please [reach us here](https://minecraftbloc.milieux.ca/contact/). We want to hear from you!**
 
 ## Upcoming Projects 
-1. Sunblock Two
+1. SunBlock Two
 2. Gaia's Riddle Solar Surival Multiplayer (Summer 2025)
-3. Sunblock Three 
+3. SunBlock Three 
 
 
 ## Past Projects 
