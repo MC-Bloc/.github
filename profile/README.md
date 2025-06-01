@@ -5,10 +5,10 @@ How did it start? [Well, it was a yucky rainy weekend...](https://github.com/MC-
 
 ## Active Projects
 
-### SunBlock One  
+### SunBlock  
 [SunBlock](https://minecraftbloc.milieux.ca/sunblock/) is a solar-powered minecraft server housed at the Milieux institute. 
 
-Currently, SunBlock is on its first iteration, SunBlock One. 
+Currently we are on the first iteration: SunBlock One. 
 To check the server status, visit the [SunBlock One status website](https://sunblockone.milieux.ca). 
 
 To build a sunblock server for yourself, checkout our server build guide and [documentation here](https://github.com/MC-Bloc/Sunblock/).
